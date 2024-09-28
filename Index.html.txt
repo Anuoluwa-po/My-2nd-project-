@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>GLM website</title>
+      
+    </head>
+    <body class="all">
+        <h2 id="name">FADEYI ANUOLWAPO FOLAKEMI</h2>
+        <p class="first-para">My name is Fadeyi Anuolwwapo. I am nursing student schooling at college of nursing sciences Ado ekiti.</p>
+        <hr>
+        <p id="best"> my side skill is hairdressing and I love cooking.My best colour is white.</p>
+        <hr>
+        <p id="best2">I attend Gosple Labour Ministry.And i hope to make full use of the  opportunity available for in this Tech hub. </p>
+        <a href="#">Learn more about me</a>
+    
+    <h1>Jesus loves me</h1>
+    <h2>Jesus loves me</h2>
+    <h3>Jesus loves me</h3>
+    <h4>Jesus loves me</h4>
+    <h5>Jesus loves me</h5>
+    <h6>Jesus loves me</h6>
+    <h6 id="me"> jesus loves me</h6>
+    </body>
+</html>
